@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @t0m83g69
-- 👀 I’m interested in SQL and PL/SQL in Oracle and PostgreSQL, Python, Ansible
+- 👀 I’m interested in SQL and PL/SQL for Oracle and PostgreSQL, Python, Ansible
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me t0m83g69@gmail.com
